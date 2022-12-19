@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- blog https://blog.hog.as/
+- <a rel="me" href="https://pawoo.net/@hogashi">Mastodon</a>
