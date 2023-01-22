@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - blog https://blog.hog.as/
-- <a rel="me" href="https://pawoo.net/@hogashi">Mastodon</a>
+- <a rel="me" href="https://social.vivaldi.net/@hogashi">Mastodon</a>
